@@ -1,2 +1,1 @@
-# identifying-patterns-and-trends-in-campus-placement-data-using-machine-learning-
-Naan muthalvan
+# Identifying-Patterns-and-Trends-in-Campus-Placement-Data-using-Machine-Learning
